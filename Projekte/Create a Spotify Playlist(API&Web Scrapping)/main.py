@@ -4,8 +4,8 @@ import os
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-CLIENT_ID="95affd4b800143a2aac2c202e4cb75b4"
-CLIENT_SECRET="6153d30028a24e22825fd9772e630e89"
+CLIENT_ID="xxxx"
+CLIENT_SECRET="xxxx"
 
 date=input("Which year would you like to travel back to? Type the date in this format  YYYY-MM-DD:  ")
 URL=f"https://www.billboard.com/charts/hot-100/{date}"
